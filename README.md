@@ -7,7 +7,7 @@
 
 <h3>🔥 Status :</h3>
 
-<img alt="MaxNascimento" src="https://github-readme-stats.vercel.app/api?username=MaxNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img alt="MaxNascimento Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento&layout=compact&theme=tokyonight" height="180px"/>
 
 
 <h3>🛠 Tecnologias :</h3>
