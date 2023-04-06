@@ -23,9 +23,9 @@
    <!-- Html -->
    <a href="" >
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
+</p>
 
-
-<h3>✉️ Contato</h3>
+<h3>✉️ Contato :</h3>
 
 <p>
    <a href="https://linkedin.com/in/max-nascimento-29774a210" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
