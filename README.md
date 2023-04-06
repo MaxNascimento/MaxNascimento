@@ -1,9 +1,8 @@
 ### Olá! Seja bem vindo 👋, eu sou 
 
-<h3 align="center"><a href="https://hud0shnik.github.io/">
+<h3 align="center"><a href="https://github.com/MaxNascimento">
    <img alt="Max Mguel" src="https://readme-typing-svg.herokuapp.com/?lines=Max+Nascimento;&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
-
 
 <h3>🔥 Status :</h3>
 
