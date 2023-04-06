@@ -12,7 +12,7 @@
 
 <h3>🛠 Tecnologias :</h3>
 
-<img alt="MaxNascimento Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-miguel&layout=compact&theme=tokyonight" height="180px"/>
+<img alt="MaxNascimento Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento&layout=compact&theme=tokyonight" height="180px"/>
 
 
 <p>
