@@ -12,7 +12,6 @@
 
 <img alt="MaxNascimento Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxNascimento&layout=compact&theme=tokyonight" height="180px"/>
 
-
 <p>
    <!-- JavaScript -->
    <a href="" > 
