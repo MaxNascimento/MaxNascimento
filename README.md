@@ -17,10 +17,10 @@
    <a href="https://github.com/MaxNascimento?tab=repositories&q=javascript&type=&language=&sort=" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
    <!-- CSS -->
-   <a href="" > 
+   <a href="https://github.com/MaxNascimento?tab=repositories&q=css&type=&language=&sort=" > 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- Html -->
-   <a href="" >
+   <a href="https://github.com/MaxNascimento?tab=repositories&q=html&type=&language=&sort=" >
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
 </p>
 
