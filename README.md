@@ -14,7 +14,7 @@
 
 <p>
    <!-- JavaScript -->
-   <a href="https://github.com/MaxNascimento?tab=repositories&q=javascript&type=&language=&sort=" > 
+   <a href="https://github.com/MaxNascimento?tab=repositories&q=&type=&language=javascript&sort=" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
    <!-- CSS -->
    <a href="https://github.com/MaxNascimento?tab=repositories&q=css&type=&language=&sort=" > 
